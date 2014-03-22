@@ -1,0 +1,19 @@
+<article class="restaurant-list ng-scope" ng-repeat="rest in restaurants">
+	<div class="restaurant-item">
+		<div class="restaurant-actions">
+			<a href="#"><img src="images/trans.gif"/></a>
+		</div>
+		<div class="restaurant-logo">
+			<img ng-src="{{rest.LogoUrl}}"/>
+		</div>
+		<div class="restaurant-details">
+			<h3>{{rest.Name}}</h3>
+			<address>{{rest.Address.FirstLine}}, {{rest.Address.Postcode}}</address>
+		</div>
+		<div class="restaurant-ratings">
+			<img src="images/trans.gif" class="rating stars-{{rest.ratings.value * 10}}"/>
+			<span>(</span><span class="number">{{rest.ratings.number}}</span><span>)</span>
+			<strong>{{rest.distance}}</strong>
+		</div>
+	</div>
+</article>
