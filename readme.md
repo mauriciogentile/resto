@@ -30,3 +30,10 @@
 - More testing in other major browsers (e.g. Firefox).
 - Unit testing with karma only run for Chrome, production code would include at least 3 more browsers.
 - e2e tests.
+
+### Snapshots
+
+![](https://github.com/mauriciogentile/resto/blob/master/snapshots/unittests.png)
+![](https://github.com/mauriciogentile/resto/blob/master/snapshots/chrome-ripple-webmobile.png)
+![](https://github.com/mauriciogentile/resto/blob/master/snapshots/chrome-v33.png)
+![](https://github.com/mauriciogentile/resto/blob/master/snapshots/ie-v10.png)
