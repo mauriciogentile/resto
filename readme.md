@@ -33,7 +33,7 @@
 
 ### Snapshots
 
-![](https://github.com/mauriciogentile/resto/blob/master/snapshots/unittests.png)
-![](https://github.com/mauriciogentile/resto/blob/master/snapshots/chrome-ripple-webmobile.png)
-![](https://github.com/mauriciogentile/resto/blob/master/snapshots/chrome-v33.png)
+![asd]("https://github.com/mauriciogentile/resto/blob/master/snapshots/unittests.png")
+![asd](https://github.com/mauriciogentile/resto/blob/master/snapshots/chrome-ripple-webmobile.png)
+![asd](https://github.com/mauriciogentile/resto/blob/master/snapshots/chrome-v33.png)
 ![](https://github.com/mauriciogentile/resto/blob/master/snapshots/ie-v10.png)
