@@ -4,11 +4,11 @@
 2. cd to folder justeat/src
 3. Run the following command:
 
-> npm install (it should install express web server)
+	> npm install (it should install express web server)
 
 4. To run the app run the command:
 
-> node app.js
+	> node app.js
 
 5. Open browser on http:\\localhost:3000
 
@@ -17,11 +17,11 @@
 
 1. Install karma
 
-> npm install -g karma@0.8.7
+	> npm install -g karma@0.8.7
 
 2. Run test script:
 	
-> scripts\test.bat
+	> scripts\test.bat
 
 ### Pendings:
 
