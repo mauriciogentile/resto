@@ -1,6 +1,6 @@
 'use strict';
 
-describe('ApplicationIndexCtrl test set', function() {
+describe('RestaurantListCtrl test set', function() {
     var scope, location, rootScope, controller, _apiService, _window, q;
 
     beforeEach(module('app'));
